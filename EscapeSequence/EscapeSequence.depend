@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709442634 source:d:\work\hello-c-world\escapesequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Turboc.h>
+
+1094211308 d:\work\hello-c-world\turboc.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
