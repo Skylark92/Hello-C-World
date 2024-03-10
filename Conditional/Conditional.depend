@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710057169 source:d:\work\hello-c-world\conditional\main.c
+	<stdio.h>
+	<stdlib.h>
+
