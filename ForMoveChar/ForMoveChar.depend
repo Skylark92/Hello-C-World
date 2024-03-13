@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710245211 source:d:\work\hello-c-world\formovechar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Turboc.h>
+
