@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711877446 source:d:\work\hello-c-world\switchscore\main.c
+	<stdio.h>
+	<stdlib.h>
+
