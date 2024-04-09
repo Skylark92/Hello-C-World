@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712668155 source:d:\work\hello-c-world\operatorshift\main.c
+	<stdio.h>
+	<stdlib.h>
+
