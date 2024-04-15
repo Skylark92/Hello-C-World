@@ -11,9 +11,9 @@ int main()
     double f;
 
     printf("실수를 입력하시오 : ");
-    scanf("%f", %f);
-    i = 0;
+    scanf("%lf", &f);
+    i = (int)(f * 100) % 100;
 
-    prtinf("i = %d\n", i);
+    printf("i = %d\n", i);
     return 0;
 }
