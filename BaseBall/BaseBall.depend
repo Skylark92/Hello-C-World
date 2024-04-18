@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713447886 source:d:\work\hello-c-world\baseball\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Turboc.h>
+
