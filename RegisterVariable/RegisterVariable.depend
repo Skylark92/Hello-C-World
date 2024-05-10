@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715428465 source:d:\work\hello-c-world\registervariable\main.c
+	<stdio.h>
+	<stdlib.h>
+
