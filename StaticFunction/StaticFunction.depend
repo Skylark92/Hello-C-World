@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1715429631 source:d:\work\hello-c-world\staticfunction\external.h
+
+1715429563 source:d:\work\hello-c-world\staticfunction\external.c
+
+1715429823 source:d:\work\hello-c-world\staticfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./external.h"
+
+1715429631 d:\work\hello-c-world\staticfunction\external.h
+

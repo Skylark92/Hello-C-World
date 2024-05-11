@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="ExternalVariable" />
+		<Option title="StaticFunction" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ExternalVariable" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/StaticFunction" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -19,8 +19,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="global.c">
+		<Unit filename="external.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="external.h">
+			<Option compilerVar="CC" />
+			<Option compile="1" />
+			<Option link="1" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
