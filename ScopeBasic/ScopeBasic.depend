@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715496531 source:d:\work\hello-c-world\scopebasic\main.c
+	<stdio.h>
+	<stdlib.h>
+
