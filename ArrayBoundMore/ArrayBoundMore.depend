@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716894613 source:d:\work\hello-c-world\arrayboundmore\main.c
+	<stdio.h>
+	<stdlib.h>
+
