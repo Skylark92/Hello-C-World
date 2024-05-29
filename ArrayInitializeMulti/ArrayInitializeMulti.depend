@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716985815 source:d:\work\hello-c-world\arrayinitializemulti\main.c
+	<stdio.h>
+	<stdlib.h>
+
