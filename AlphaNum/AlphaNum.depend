@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717329569 source:d:\work\hello-c-world\alphanum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Turboc.h>
+
