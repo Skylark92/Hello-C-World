@@ -4,24 +4,19 @@
 void Congratulation(int count)
 {
     static char *Message[] = {
-        "",
-        "축하합니다. 최고 성적입니다.",
-        "대단한 성적입니다.",
-        "참 잘 하셨습니다.",
-        "보통이 아니군요.",
+        "잘 하셨습니다.",
         "보통입니다.",
-        "조금 더 노력하셔야겠습니다.",
-        "정말 못하시는군요.",
-        "수준 이하입니다.",
-        "다음부터 절대로 이 게임을 하지 마세요.",
+        "못 하는군요.",
     };
 
-    if (count >= 9) count = 9;
-    puts(Message[count]);
+    static int arMes[] = { 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2 };
+
+    if (count >= 12) count = 12;
+    puts(Message[arMes[count]]);
 }
 
 int main()
 {
-    Congratulation(3);
+    Congratulation(8);
     return 0;
 }
