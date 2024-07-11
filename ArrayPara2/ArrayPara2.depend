@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720695869 source:d:\work\hello-c-world\arraypara2\main.c
+	<stdio.h>
+	<stdlib.h>
+
