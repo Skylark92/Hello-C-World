@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721040251 source:d:\work\hello-c-world\malloc2array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
