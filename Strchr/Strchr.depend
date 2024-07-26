@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721997662 source:d:\work\hello-c-world\strchr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
