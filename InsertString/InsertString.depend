@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722173138 source:d:\work\hello-c-world\insertstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
