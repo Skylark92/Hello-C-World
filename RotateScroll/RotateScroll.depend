@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722342169 source:d:\work\hello-c-world\rotatescroll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Turboc.h>
+	<unistd.h>
+
