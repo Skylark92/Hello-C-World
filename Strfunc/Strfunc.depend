@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722950510 source:d:\work\hello-c-world\strfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Turboc.h>
+
